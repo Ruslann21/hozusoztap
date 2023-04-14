@@ -11,24 +11,24 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
 
 keyboard = InlineKeyboardMarkup([
     [
-        InlineKeyboardButton("➕ Qrupuna əlavə et ➕", url=f"http://t.me/XAOS_Gamebot?startgroup=new")
+        InlineKeyboardButton("➕ Qrupuna əlavə et ➕", url=f"http://t.me/KrayzenGamebot?startgroup=new")
     ],
     [
-        InlineKeyboardButton("🇦🇿 𝕆𝕎ℕ𝔼ℝ 👨‍💻", url="t.me/Dakanca_Hozu")
+        InlineKeyboardButton("🇦🇿 𝕆𝕎ℕ𝔼ℝ 👨‍💻", url="t.me/Hasbullahh")
     ],
     [
-        InlineKeyboardButton("👮‍♂️ 𝔽𝔼𝔻𝔼ℝ𝔸𝕊𝕀𝕐𝔸 𝕊𝔸ℍ𝕀𝔹𝕀", url="https://t.me/Crazymmc")
+        InlineKeyboardButton("👮‍♂️ 𝔽𝔼𝔻𝔼ℝ𝔸𝕊𝕀𝕐𝔸 𝕊𝔸ℍ𝕀𝔹𝕀", url="https://t.me/KrayzenSupport")
     ],
     [
-        InlineKeyboardButton("💬 𝕊𝕆ℍ𝔹𝔼𝕋 ℚℝ𝕌ℙ𝕌𝕄𝕌ℤ", url="https://t.me/Crazymmc")  
+        InlineKeyboardButton("💬 𝕊𝕆ℍ𝔹𝔼𝕋 ℚℝ𝕌ℙ𝕌𝕄𝕌ℤ", url="https://t.me/HasbullaBlog")  
     ]
 ])
 
 
 START = """
-**👋 Salam. Mən 𝕏𝔸𝕆𝕊 𝔾𝔸𝕄𝔼**
+**👋 Salam. Mən 𝙺𝚁𝙰𝚈𝚉𝙴𝙽 𝙶𝙰𝙼𝙴**
 
-**⚡ Mən 𝕏𝔸𝕆𝕊 Federasiyasının Rəsmi Söz Oyun Botuyam**
+**⚡ Mən 𝙺𝚁𝙰𝚈𝚉𝙴𝙽 Federasiyasının Rəsmi Söz Oyun Botuyam**
 **📌 Bu Bot İlə Qrupda Vaxtınızı Maraqlı Keçirə Bilərsiniz**
 
 ⚙ Əmrlər Üçün ➪ /help Əmrindən İsdifadə Edin 
